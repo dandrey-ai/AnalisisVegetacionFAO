@@ -1,16 +1,16 @@
 ls()
 rm(list = ls())
 ########## Analisis preliminar de la vegetación posabandono y posfuego de la región chaqueña -----
-setwd("C:/A/Profesionales/2026_FAO/2026_Abril_ResultadosPreliminares")
+
 # librerias
 library(dplyr)
 library(ggplot2)
 
 # datos
-dataA <- read.csv("2026_04_data_ParcelaA.csv", fileEncoding = "latin1")
-dataB <- read.csv("2026_04_data_ParcelaB.csv", fileEncoding = "latin1")
-data_Ren <- read.csv("2026_04_data_Parcela_Abu.csv", fileEncoding = "latin1")
-data_Cob <- read.csv("2026_04_data_Parcela_Cob.csv", fileEncoding = "latin1")
+dataA <- read.csv("data_ParcelaA.csv", fileEncoding = "latin1")
+dataB <- read.csv("data_ParcelaB.csv", fileEncoding = "latin1")
+data_Ren <- read.csv("data_Parcela_Abu.csv", fileEncoding = "latin1")
+data_Cob <- read.csv("data_Parcela_Cob.csv", fileEncoding = "latin1")
 
 dataA <- filter(dataA, !is.na(ID.Parcela) & ID.Parcela > 0)
 dataB <- filter(dataB, !is.na(ID.Parcela) & ID.Parcela > 0)
@@ -23,8 +23,6 @@ data_Cob <- filter(data_Cob, !is.na(ID.Parcela) & ID.Parcela > 0)
 riquezaA <- dataA %>%
   group_by(ID.Parcela, Condición, Estancia) %>%
   summarise(n_especies = n_distinct(Especie))
-
-library(dplyr)
 
 riquezaB <- dataB %>%
   group_by(ID.individuo) %>%
@@ -77,5 +75,3 @@ plot_riqueza(
   "Número de especies de renovales",
   "Graficos/Riqueza Renovales.png"
 )
-### Juveniles
-### Renovales
