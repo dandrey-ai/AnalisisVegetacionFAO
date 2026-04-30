@@ -1,15 +1,81 @@
 ls()
 rm(list = ls())
 ########## Analisis preliminar de la vegetación posabandono y posfuego de la región chaqueña -----
-setwd("D:/FAO/Analisis Preliminar/AnalisisVegetacionFAO")
+setwd("C:/A/Profesionales/2026_FAO/2026_Abril_ResultadosPreliminares")
 # librerias
 library(dplyr)
+library(ggplot2)
 
+# datos
+dataA <- read.csv("2026_04_data_ParcelaA.csv", fileEncoding = "latin1")
+dataB <- read.csv("2026_04_data_ParcelaB.csv", fileEncoding = "latin1")
+data_Ren <- read.csv("2026_04_data_Parcela_Abu.csv", fileEncoding = "latin1")
+data_Cob <- read.csv("2026_04_data_Parcela_Cob.csv", fileEncoding = "latin1")
+
+dataA <- filter(dataA, !is.na(ID.Parcela) & ID.Parcela > 0)
+dataB <- filter(dataB, !is.na(ID.Parcela) & ID.Parcela > 0)
+data_Ren <- filter(data_Ren, !is.na(ID.Parcela) & ID.Parcela > 0)
+data_Cob <- filter(data_Cob, !is.na(ID.Parcela) & ID.Parcela > 0)
 
 ### Riqueza ----
 ### Adultos
-data <- read.csv("data_ParcelaA.csv", fileEncoding = "latin1")
-data <- filter(data, !is.na(ID.Parcela) & ID.Parcela > 0)
 
+riquezaA <- dataA %>%
+  group_by(ID.Parcela, Condición, Estancia) %>%
+  summarise(n_especies = n_distinct(Especie))
+
+library(dplyr)
+
+riquezaB <- dataB %>%
+  group_by(ID.individuo) %>%
+  filter(all(DAP.calc <= 10, na.rm = TRUE)) %>%
+  ungroup() %>%
+  group_by(ID.Parcela, Condición, Estancia) %>%
+  summarise(n_especies = n_distinct(Especie), .groups = "drop")
+
+
+riqueza_Ren <- data_Ren %>%
+  group_by(ID.Parcela, Condición, Estancia) %>%
+  summarise(n_especies = n_distinct(Especie))
+
+library(ggplot2)
+
+plot_riqueza <- function(df, ylabel, filename) {
+  
+  p <- ggplot(df, aes(x = Condición, y = n_especies, fill = Condición)) +
+    geom_col() +
+    facet_wrap(~ Estancia) +
+    scale_fill_manual(values = c(
+      "Referencia" = "#64B97B",
+      "Fuego" = "#B9A564",
+      "Chacra" = "#6478B9",
+      "Rolado" = "#B964A2"
+    )) +
+    labs(x = "Condición", y = ylabel) +
+    theme_bw()
+  
+  ggsave(filename, plot = p, width = 8, height = 6, dpi = 300)
+}
+
+# Adultos
+plot_riqueza(
+  riquezaA,
+  "Número de especies de adultos",
+  "Graficos/Riqueza Adultos.png"
+)
+
+# Otro dataset (ej: B)
+plot_riqueza(
+  riquezaB,
+  "Número de especies como juveniles",  # ajustá texto
+  "Graficos/Riqueza de Juveniles.png"
+)
+
+# Juveniles / Renovales
+plot_riqueza(
+  riqueza_Ren,
+  "Número de especies de renovales",
+  "Graficos/Riqueza Renovales.png"
+)
 ### Juveniles
 ### Renovales
