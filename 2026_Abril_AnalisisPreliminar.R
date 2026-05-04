@@ -75,3 +75,58 @@ plot_riqueza(
   "Número de especies de renovales",
   "Graficos/Riqueza Renovales.png"
 )
+
+
+###
+
+ind_total_A <- dataA %>%
+  group_by(ID.Parcela, Condición, Estancia) %>%
+  summarise(n_individuos = n_distinct(ID.individuo), .groups = "drop")
+
+ind_total_B <- dataB %>%
+  group_by(ID.Parcela, Condición, Estancia) %>%
+  summarise(n_individuos = n_distinct(ID.individuo), .groups = "drop")
+
+ind_total_Ren <- data_Ren %>%
+  group_by(Estancia, Condición) %>%
+  summarise(n_individuos = sum(Cantidad, na.rm = TRUE),
+            .groups = "drop")
+
+### Graficos
+plot_abundancia <- function(df, ylabel, filename) {
+  
+  q <- ggplot(df, aes(x = Condición, y = n_individuos, fill = Condición)) +
+    geom_col() +
+    facet_wrap(~ Estancia) +
+    scale_fill_manual(values = c(
+      "Referencia" = "#64B97B",
+      "Fuego" = "#B9A564",
+      "Chacra" = "#6478B9",
+      "Rolado" = "#B964A2"
+    )) +
+    labs(x = "Condición", y = ylabel) +
+    theme_bw()
+  
+  ggsave(filename, plot = q, width = 8, height = 6, dpi = 300)
+}
+
+# Adultos
+plot_abundancia(
+  ind_total_A,
+  "Número de individuos adultos",
+  "Graficos/Abundancia_Adultos.png"
+)
+
+# Otro dataset (ej: B)
+plot_abundancia(
+  ind_total_B,
+  "Número de individuos juveniles",  # ajustá texto
+  "Graficos/AbundanciaJuveniles.png"
+)
+
+# Juveniles / Renovales
+plot_abundancia(
+  ind_total_Ren,
+  "Número de individuos renovales",
+  "Graficos/AbundanciaRenovales.png"
+)
