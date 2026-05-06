@@ -130,3 +130,5 @@ plot_abundancia(
   "Número de individuos renovales",
   "Graficos/AbundanciaRenovales.png"
 )
+
+##### Vamoa a anlizar pero de todo!!
