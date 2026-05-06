@@ -1,172 +1,288 @@
-ID Parcela,ID subparcela,Localidad,Estancia,Fecha,Edad,Condición,Especie,Cantidad
-1,1,Serrezuela,Gonzalez,4/12/2026,,Fuego,Cer pra,1
-1,2,Serrezuela,Gonzalez,4/12/2026,,Fuego,Ata ema,1
-1,3,Serrezuela,Gonzalez,4/12/2026,,Fuego,Cer pra,1
-1,4,Serrezuela,Gonzalez,4/12/2026,,Fuego,Geo dec,1
-1,4,Serrezuela,Gonzalez,4/12/2026,,Fuego,Mim det,2
-1,4,Serrezuela,Gonzalez,4/12/2026,,Fuego,Ziz mis,2
-1,4,Serrezuela,Gonzalez,4/12/2026,,Fuego,Cel pal,1
-1,4,Serrezuela,Gonzalez,4/12/2026,,Fuego,Cer pra,1
-2,1,Serrezuela,Gonzalez,4/12/2026,,Referencia,Geo dec,1
-2,2,Serrezuela,Gonzalez,4/12/2026,,Referencia,Lar div,2
-2,2,Serrezuela,Gonzalez,4/12/2026,,Referencia,Geo dec,2
-2,2,Serrezuela,Gonzalez,4/12/2026,,Referencia,May vit,1
-2,2,Serrezuela,Gonzalez,4/12/2026,,Referencia,Sen gil,4
-2,2,Serrezuela,Gonzalez,4/12/2026,,Referencia,Ata ema,1
-2,3,Serrezuela,Gonzalez,4/12/2026,,Referencia,Mim det,1
-2,3,Serrezuela,Gonzalez,4/12/2026,,Referencia,Lar div,1
-2,3,Serrezuela,Gonzalez,4/12/2026,,Referencia,Geo dec,1
-2,3,Serrezuela,Gonzalez,4/12/2026,,Referencia,Nel tor,2
-2,4,Serrezuela,Gonzalez,4/12/2026,,Referencia,Lar div,2
-2,4,Serrezuela,Gonzalez,4/12/2026,,Referencia,Mon spi,1
-2,4,Serrezuela,Gonzalez,4/12/2026,,Referencia,Mim det,1
-2,4,Serrezuela,Gonzalez,4/12/2026,,Referencia,Ata ema,1
-3,1,Serrezuela,Gonzalez,4/12/2026,,Chacra,-, 
-3,2,Serrezuela,Gonzalez,4/12/2026,,Chacra, -, 
-3,3,Serrezuela,Gonzalez,4/12/2026,,Chacra,Lar div,2
-3,3,Serrezuela,Gonzalez,4/12/2026,,Chacra,Sar mis,1
-3,3,Serrezuela,Gonzalez,4/12/2026,,Chacra,Vac aro,1
-3,3,Serrezuela,Gonzalez,4/12/2026,,Chacra,Nel tor,1
-3,3,Serrezuela,Gonzalez,4/12/2026,,Chacra,Cas coc,2
-3,3,Serrezuela,Gonzalez,4/12/2026,,Chacra,Asp que,1
-3,4,Serrezuela,Gonzalez,4/12/2026,,Chacra,Mim det,1
-3,4,Serrezuela,Gonzalez,4/12/2026,,Chacra,Lar div,2
-3,4,Serrezuela,Gonzalez,4/12/2026,,Chacra,Nel fle,2
-3,4,Serrezuela,Gonzalez,4/12/2026,,Chacra,Cas coc,1
-3,4,Serrezuela,Gonzalez,4/12/2026,,Chacra,Asp que,1
-4,1,Serrezulea,Sosa Alverto,4/13/2026,,Chacra,Sar mis,1
-4,1,Serrezulea,Sosa Alverto,4/13/2026,,Chacra,Cer pra,1
-4,1,Serrezulea,Sosa Alverto,4/13/2026,,Chacra,Sen gil,1
-4,1,Serrezulea,Sosa Alverto,4/13/2026,,Chacra,Cel pal,1
-4,2,Serrezulea,Sosa Alverto,4/13/2026,,Chacra,Cer pra,1
-4,2,Serrezulea,Sosa Alverto,4/13/2026,,Chacra,Sen gil,4
-4,2,Serrezulea,Sosa Alverto,4/13/2026,,Chacra,Nel fle,1
-4,2,Serrezulea,Sosa Alverto,4/13/2026,,Chacra,Sar mis,1
-4,2,Serrezulea,Sosa Alverto,4/13/2026,,Chacra,Nel tor,1
-4,3,Serrezulea,Sosa Alverto,4/13/2026,,Chacra,Cas coc,1
-4,3,Serrezulea,Sosa Alverto,4/13/2026,,Chacra,Lar div,3
-4,3,Serrezulea,Sosa Alverto,4/13/2026,,Chacra,Geo dec,1
-4,3,Serrezulea,Sosa Alverto,4/13/2026,,Chacra,Sen gil,1
-4,4,Serrezulea,Sosa Alverto,4/13/2026,,Chacra,Cel pal,2
-4,4,Serrezulea,Sosa Alverto,4/13/2026,,Chacra,Sen gil,3
-4,4,Serrezulea,Sosa Alverto,4/13/2026,,Chacra,Mim det,4
-4,4,Serrezulea,Sosa Alverto,4/13/2026,,Chacra,Lar div,1
-5,1,Serrezulea,Sosa Alverto,4/13/2026,,Referencia,Ata ema,3
-5,1,Serrezulea,Sosa Alverto,4/13/2026,,Referencia,Mim det,1
-5,1,Serrezulea,Sosa Alverto,4/13/2026,,Referencia,Lar div,1
-5,2,Serrezulea,Sosa Alverto,4/13/2026,,Referencia,Mim det,1
-5,2,Serrezulea,Sosa Alverto,4/13/2026,,Referencia,Lyc sp.,1
-5,2,Serrezulea,Sosa Alverto,4/13/2026,,Referencia,Lar div,2
-5,3,Serrezulea,Sosa Alverto,4/13/2026,,Referencia,Lar div,2
-5,3,Serrezulea,Sosa Alverto,4/13/2026,,Referencia,Lyc sp.,2
-5,3,Serrezulea,Sosa Alverto,4/13/2026,,Referencia,Sar mis,1
-5,3,Serrezulea,Sosa Alverto,4/13/2026,,Referencia,Mim det,5
-5,3,Serrezulea,Sosa Alverto,4/13/2026,,Referencia,Sen gil,2
-5,3,Serrezulea,Sosa Alverto,4/13/2026,,Referencia,Sen aph,1
-5,3,Serrezulea,Sosa Alverto,4/13/2026,,Referencia,Ata ema,1
-5,4,Serrezulea,Sosa Alverto,4/13/2026,,Referencia,Cel pal,10
-5,4,Serrezulea,Sosa Alverto,4/13/2026,,Referencia,Mim det,4
-5,4,Serrezulea,Sosa Alverto,4/13/2026,,Referencia,Ata ema,4
-5,4,Serrezulea,Sosa Alverto,4/13/2026,,Referencia,Cer pra,1
-6,1,Serrezulea,Loyola,4/13/2026,,Referencia,Cel pal,2
-6,1,Serrezulea,Loyola,4/13/2026,,Referencia,Sen gil,1
-6,1,Serrezulea,Loyola,4/13/2026,,Referencia,Ata ema,3
-6,1,Serrezulea,Loyola,4/13/2026,,Referencia,May vit,1
-6,1,Serrezulea,Loyola,4/13/2026,,Referencia,Mim car,1
-6,2,Serrezulea,Loyola,4/13/2026,,Referencia,Sar mis,1
-6,2,Serrezulea,Loyola,4/13/2026,,Referencia,Mim car,4
-6,2,Serrezulea,Loyola,4/13/2026,,Referencia,Lyc sp.,1
-6,3,Serrezulea,Loyola,4/13/2026,,Referencia,Mim car,3
-6,4,Serrezulea,Loyola,4/13/2026,,Referencia,Lar div,2
-6,4,Serrezulea,Loyola,4/13/2026,,Referencia,Mim car,1
-6,4,Serrezulea,Loyola,4/13/2026,,Referencia,Lyc sp.,1
-6,4,Serrezulea,Loyola,4/13/2026,,Referencia,Ata ema,2
-6,4,Serrezulea,Loyola,4/13/2026,,Referencia,Cel pal,2
-6,4,Serrezulea,Loyola,4/13/2026,,Referencia,Sar mis,1
-6,4,Serrezulea,Loyola,4/13/2026,,Referencia,Nel tor,2
-7,1,Serrezulea,Loyola,4/13/2026,,Chacra,Ata ema,1
-7,1,Serrezulea,Loyola,4/13/2026,,Chacra,Asp que,1
-7,1,Serrezulea,Loyola,4/13/2026,,Chacra,Cel pal,1
-7,1,Serrezulea,Loyola,4/13/2026,,Chacra,Geo dec,1
-7,1,Serrezulea,Loyola,4/13/2026,,Chacra,May vit,1
-7,2,Serrezulea,Loyola,4/13/2026,,Chacra,Ata ema,2
-7,2,Serrezulea,Loyola,4/13/2026,,Chacra,May vit,2
-7,2,Serrezulea,Loyola,4/13/2026,,Chacra,Lar div,2
-7,3,Serrezulea,Loyola,4/13/2026,,Chacra,Sar mis,2
-7,3,Serrezulea,Loyola,4/13/2026,,Chacra,Cel pal,10
-7,3,Serrezulea,Loyola,4/13/2026,,Chacra,Ata ema,1
-7,3,Serrezulea,Loyola,4/13/2026,,Chacra,Cer pra,1
-7,3,Serrezulea,Loyola,4/13/2026,,Chacra,Mim car,1
-7,3,Serrezulea,Loyola,4/13/2026,,Chacra,Asp que,1
-7,3,Serrezulea,Loyola,4/13/2026,,Chacra,May vit,1
-7,4,Serrezulea,Loyola,4/13/2026,,Chacra,Cel pal,1
-7,4,Serrezulea,Loyola,4/13/2026,,Chacra,Lar div,3
-7,4,Serrezulea,Loyola,4/13/2026,,Chacra,Ata ema,3
-7,4,Serrezulea,Loyola,4/13/2026,,Chacra,Geo dec,1
-8,1,La Paz,Pichonas,4/14/2026,,Referencia,Cel pal,6
-8,1,La Paz,Pichonas,4/14/2026,,Referencia,Alo sp.,4
-8,2,La Paz,Pichonas,4/14/2026,,Referencia,Lar div,3
-8,2,La Paz,Pichonas,4/14/2026,,Referencia,Con mic,1
-8,3,La Paz,Pichonas,4/14/2026,,Referencia,Con mic,1
-8,3,La Paz,Pichonas,4/14/2026,,Referencia,Lar div,1
-8,3,La Paz,Pichonas,4/14/2026,,Referencia,Cel pal,1
-8,4,La Paz,Pichonas,4/14/2026,,Referencia,Alo sp.,3
-8,4,La Paz,Pichonas,4/14/2026,,Referencia,Cel pal,6
-8,4,La Paz,Pichonas,4/14/2026,,Referencia,Lar div,1
-9,1,La Paz,Pichonas,4/15/2026,,Chacra,Nel fle,2
-9,2,La Paz,Pichonas,4/15/2026,,Chacra,Nel fle,5
-9,3,La Paz,Pichonas,4/15/2026,,Chacra,Nel fle,2
-9,4,La Paz,Pichonas,4/15/2026,,Chacra,Nel fle,3
-9,4,La Paz,Pichonas,4/15/2026,,Chacra,Con mic,1
-10,1,Dolores,El Alamo,4/15/2026,,Refgerencia,Cel pal,7
-10,1,Dolores,El Alamo,4/15/2026,,Refgerencia,May vit,1
-10,2,Dolores,El Alamo,4/15/2026,,Refgerencia,Cel pal,4
-10,3,Dolores,El Alamo,4/15/2026,,Refgerencia,Cel pal,11
-10,3,Dolores,El Alamo,4/15/2026,,Refgerencia,Ata ema,1
-10,4,Dolores,El Alamo,4/15/2026,,Refgerencia,Xim ame,1
-10,4,Dolores,El Alamo,4/15/2026,,Refgerencia,Cel pal,2
-10,4,Dolores,El Alamo,4/15/2026,,Refgerencia,Ata ema,1
-10,4,Dolores,El Alamo,4/15/2026,,Refgerencia,Asp que,1
-10,4,Dolores,El Alamo,4/15/2026,,Refgerencia,Lar div,1
-11,1,Dolores,El Alamo,4/15/2026,,Chacra,Nel fle,2
-11,2,Dolores,El Alamo,4/15/2026,,Chacra,Asp que,1
-11,2,Dolores,El Alamo,4/15/2026,,Chacra,Cel pal,3
-11,2,Dolores,El Alamo,4/15/2026,,Chacra,Cer pra,1
-11,2,Dolores,El Alamo,4/15/2026,,Chacra,Lyc sp.,4
-11,3,Dolores,El Alamo,4/15/2026,,Chacra,Cel pal,1
-11,3,Dolores,El Alamo,4/15/2026,,Chacra,Lar div,1
-11,4,Dolores,El Alamo,4/15/2026,,Chacra,Cel pal,2
-11,4,Dolores,El Alamo,4/15/2026,,Chacra,Nel fle,1
-11,4,Dolores,El Alamo,4/15/2026,,Chacra,Lar div,1
-12,1,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Rolado,Alo sp.,4
-12,2,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Rolado,Alo sp.,2
-12,2,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Rolado,Cel pal,3
-12,2,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Rolado,Lyc sp.,2
-12,2,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Rolado,Lar div,1
-12,2,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Rolado,Nel fle,1
-12,3,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Rolado,Cel pal,3
-12,3,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Rolado,Alo sp.,5
-12,4,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Rolado,Alo sp.,12
-12,4,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Rolado,Cel pal,2
-12,4,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Rolado,Vac aro,1
-13,1,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Referencia,Alo sp.,8
-13,1,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Referencia,Cel pal,6
-13,1,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Referencia,Geo dec,3
-13,1,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Referencia,Lar div,2
-13,2,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Referencia,Lar div,3
-13,2,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Referencia,Nel tor,1
-13,2,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Referencia,Alo sp.,3
-13,3,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Referencia,Cel pal,5
-13,3,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Referencia,Alo sp.,5
-13,3,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Referencia,Lar div,3
-13,3,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Referencia,Con mic,1
-13,4,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Referencia,Cel pal,8
-13,4,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Referencia,Alo sp.,1
-13,4,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Referencia,Lyc sp.,1
-14,1,Quines,Furlotti,4/16/2026,,Chacra,Cel pal,10
-14,1,Quines,Furlotti,4/16/2026,,Chacra,Ata ema,1
-14,2,Quines,Furlotti,4/16/2026,,Chacra,Cel pal,2
-14,2,Quines,Furlotti,4/16/2026,,Chacra,Nel fle,1
-14,3,Quines,Furlotti,4/16/2026,,Chacra,Con mic,8
-14,3,Quines,Furlotti,4/16/2026,,Chacra,Nel fle,2
-14,4,Quines,Furlotti,4/16/2026,,Chacra,Cel tal,1
+ID Parcela,ID subparcela,Localidad,Estancia,Fecha,Edad,Condición,Especie,Cantidad juveniles,Grado de relevamiento,Observaciones nomeclaturales
+1,1,Serrezuela,Gonzalez,4/12/2026,,Fuego,Cer pra,1,1,
+1,2,Serrezuela,Gonzalez,4/12/2026,,Fuego,Ata ema,1,1,
+1,3,Serrezuela,Gonzalez,4/12/2026,,Fuego,Cer pra,1,1,
+1,4,Serrezuela,Gonzalez,4/12/2026,,Fuego,Geo dec,1,1,
+1,4,Serrezuela,Gonzalez,4/12/2026,,Fuego,Mim det,2,1,
+1,4,Serrezuela,Gonzalez,4/12/2026,,Fuego,Ziz mis,2,1,
+1,4,Serrezuela,Gonzalez,4/12/2026,,Fuego,Cel pal,1,1,
+1,4,Serrezuela,Gonzalez,4/12/2026,,Fuego,Cer pra,1,1,
+2,1,Serrezuela,Gonzalez,4/12/2026,,Referencia,Geo dec,1,1,
+2,2,Serrezuela,Gonzalez,4/12/2026,,Referencia,Lar div,2,1,
+2,2,Serrezuela,Gonzalez,4/12/2026,,Referencia,Geo dec,2,1,
+2,2,Serrezuela,Gonzalez,4/12/2026,,Referencia,May vit,1,1,
+2,2,Serrezuela,Gonzalez,4/12/2026,,Referencia,Sen gil,4,1,
+2,2,Serrezuela,Gonzalez,4/12/2026,,Referencia,Ata ema,1,1,
+2,3,Serrezuela,Gonzalez,4/12/2026,,Referencia,Mim det,1,1,
+2,3,Serrezuela,Gonzalez,4/12/2026,,Referencia,Lar div,1,1,
+2,3,Serrezuela,Gonzalez,4/12/2026,,Referencia,Geo dec,1,1,
+2,3,Serrezuela,Gonzalez,4/12/2026,,Referencia,Nel tor,2,1,
+2,4,Serrezuela,Gonzalez,4/12/2026,,Referencia,Lar div,2,1,
+2,4,Serrezuela,Gonzalez,4/12/2026,,Referencia,Mon spi,1,1,
+2,4,Serrezuela,Gonzalez,4/12/2026,,Referencia,Mim det,1,1,
+2,4,Serrezuela,Gonzalez,4/12/2026,,Referencia,Ata ema,1,1,
+3,1,Serrezuela,Gonzalez,4/12/2026,,Chacra,-, ,1,
+3,2,Serrezuela,Gonzalez,4/12/2026,,Chacra, -, ,1,
+3,3,Serrezuela,Gonzalez,4/12/2026,,Chacra,Lar div,2,1,
+3,3,Serrezuela,Gonzalez,4/12/2026,,Chacra,Sar mis,1,1,
+3,3,Serrezuela,Gonzalez,4/12/2026,,Chacra,Vac aro,1,1,
+3,3,Serrezuela,Gonzalez,4/12/2026,,Chacra,Nel tor,1,1,
+3,3,Serrezuela,Gonzalez,4/12/2026,,Chacra,Cas coc,2,1,
+3,3,Serrezuela,Gonzalez,4/12/2026,,Chacra,Asp que,1,1,
+3,4,Serrezuela,Gonzalez,4/12/2026,,Chacra,Mim det,1,1,
+3,4,Serrezuela,Gonzalez,4/12/2026,,Chacra,Lar div,2,1,
+3,4,Serrezuela,Gonzalez,4/12/2026,,Chacra,Nel fle,2,1,
+3,4,Serrezuela,Gonzalez,4/12/2026,,Chacra,Cas coc,1,1,
+3,4,Serrezuela,Gonzalez,4/12/2026,,Chacra,Asp que,1,1,
+4,1,Serrezulea,Sosa Alverto,4/13/2026,,Chacra,Sar mis,1,1,
+4,1,Serrezulea,Sosa Alverto,4/13/2026,,Chacra,Cer pra,1,1,
+4,1,Serrezulea,Sosa Alverto,4/13/2026,,Chacra,Sen gil,1,1,
+4,1,Serrezulea,Sosa Alverto,4/13/2026,,Chacra,Cel pal,1,1,
+4,2,Serrezulea,Sosa Alverto,4/13/2026,,Chacra,Cer pra,1,1,
+4,2,Serrezulea,Sosa Alverto,4/13/2026,,Chacra,Sen gil,4,1,
+4,2,Serrezulea,Sosa Alverto,4/13/2026,,Chacra,Nel fle,1,1,
+4,2,Serrezulea,Sosa Alverto,4/13/2026,,Chacra,Sar mis,1,1,
+4,2,Serrezulea,Sosa Alverto,4/13/2026,,Chacra,Nel tor,1,1,
+4,3,Serrezulea,Sosa Alverto,4/13/2026,,Chacra,Cas coc,1,1,
+4,3,Serrezulea,Sosa Alverto,4/13/2026,,Chacra,Lar div,3,1,
+4,3,Serrezulea,Sosa Alverto,4/13/2026,,Chacra,Geo dec,1,1,
+4,3,Serrezulea,Sosa Alverto,4/13/2026,,Chacra,Sen gil,1,1,
+4,4,Serrezulea,Sosa Alverto,4/13/2026,,Chacra,Cel pal,2,1,
+4,4,Serrezulea,Sosa Alverto,4/13/2026,,Chacra,Sen gil,3,1,
+4,4,Serrezulea,Sosa Alverto,4/13/2026,,Chacra,Mim det,4,1,
+4,4,Serrezulea,Sosa Alverto,4/13/2026,,Chacra,Lar div,1,1,
+5,1,Serrezulea,Sosa Alverto,4/13/2026,,Referencia,Ata ema,3,1,
+5,1,Serrezulea,Sosa Alverto,4/13/2026,,Referencia,Mim det,1,1,
+5,1,Serrezulea,Sosa Alverto,4/13/2026,,Referencia,Lar div,1,1,
+5,2,Serrezulea,Sosa Alverto,4/13/2026,,Referencia,Mim det,1,1,
+5,2,Serrezulea,Sosa Alverto,4/13/2026,,Referencia,Lyc sp.,1,1,
+5,2,Serrezulea,Sosa Alverto,4/13/2026,,Referencia,Lar div,2,1,
+5,3,Serrezulea,Sosa Alverto,4/13/2026,,Referencia,Lar div,2,1,
+5,3,Serrezulea,Sosa Alverto,4/13/2026,,Referencia,Lyc sp.,2,1,
+5,3,Serrezulea,Sosa Alverto,4/13/2026,,Referencia,Sar mis,1,1,
+5,3,Serrezulea,Sosa Alverto,4/13/2026,,Referencia,Mim det,5,1,
+5,3,Serrezulea,Sosa Alverto,4/13/2026,,Referencia,Sen gil,2,1,
+5,3,Serrezulea,Sosa Alverto,4/13/2026,,Referencia,Sen aph,1,1,
+5,3,Serrezulea,Sosa Alverto,4/13/2026,,Referencia,Ata ema,1,1,
+5,4,Serrezulea,Sosa Alverto,4/13/2026,,Referencia,Cel pal,10,1,
+5,4,Serrezulea,Sosa Alverto,4/13/2026,,Referencia,Mim det,4,1,
+5,4,Serrezulea,Sosa Alverto,4/13/2026,,Referencia,Ata ema,4,1,
+5,4,Serrezulea,Sosa Alverto,4/13/2026,,Referencia,Cer pra,1,1,
+6,1,Serrezulea,Loyola,4/13/2026,,Referencia,Cel pal,2,1,
+6,1,Serrezulea,Loyola,4/13/2026,,Referencia,Sen gil,1,1,
+6,1,Serrezulea,Loyola,4/13/2026,,Referencia,Ata ema,3,1,
+6,1,Serrezulea,Loyola,4/13/2026,,Referencia,May vit,1,1,
+6,1,Serrezulea,Loyola,4/13/2026,,Referencia,Mim car,1,1,
+6,2,Serrezulea,Loyola,4/13/2026,,Referencia,Sar mis,1,1,
+6,2,Serrezulea,Loyola,4/13/2026,,Referencia,Mim car,4,1,
+6,2,Serrezulea,Loyola,4/13/2026,,Referencia,Lyc sp.,1,1,
+6,3,Serrezulea,Loyola,4/13/2026,,Referencia,Mim car,3,1,
+6,4,Serrezulea,Loyola,4/13/2026,,Referencia,Lar div,2,1,
+6,4,Serrezulea,Loyola,4/13/2026,,Referencia,Mim car,1,1,
+6,4,Serrezulea,Loyola,4/13/2026,,Referencia,Lyc sp.,1,1,
+6,4,Serrezulea,Loyola,4/13/2026,,Referencia,Ata ema,2,1,
+6,4,Serrezulea,Loyola,4/13/2026,,Referencia,Cel pal,2,1,
+6,4,Serrezulea,Loyola,4/13/2026,,Referencia,Sar mis,1,1,
+6,4,Serrezulea,Loyola,4/13/2026,,Referencia,Nel tor,2,1,
+7,1,Serrezulea,Loyola,4/13/2026,,Chacra,Ata ema,1,1,
+7,1,Serrezulea,Loyola,4/13/2026,,Chacra,Asp que,1,1,
+7,1,Serrezulea,Loyola,4/13/2026,,Chacra,Cel pal,1,1,
+7,1,Serrezulea,Loyola,4/13/2026,,Chacra,Geo dec,1,1,
+7,1,Serrezulea,Loyola,4/13/2026,,Chacra,May vit,1,1,
+7,2,Serrezulea,Loyola,4/13/2026,,Chacra,Ata ema,2,1,
+7,2,Serrezulea,Loyola,4/13/2026,,Chacra,May vit,2,1,
+7,2,Serrezulea,Loyola,4/13/2026,,Chacra,Lar div,2,1,
+7,3,Serrezulea,Loyola,4/13/2026,,Chacra,Sar mis,2,1,
+7,3,Serrezulea,Loyola,4/13/2026,,Chacra,Cel pal,10,1,
+7,3,Serrezulea,Loyola,4/13/2026,,Chacra,Ata ema,1,1,
+7,3,Serrezulea,Loyola,4/13/2026,,Chacra,Cer pra,1,1,
+7,3,Serrezulea,Loyola,4/13/2026,,Chacra,Mim car,1,1,
+7,3,Serrezulea,Loyola,4/13/2026,,Chacra,Asp que,1,1,
+7,3,Serrezulea,Loyola,4/13/2026,,Chacra,May vit,1,1,
+7,4,Serrezulea,Loyola,4/13/2026,,Chacra,Cel pal,1,1,
+7,4,Serrezulea,Loyola,4/13/2026,,Chacra,Lar div,3,1,
+7,4,Serrezulea,Loyola,4/13/2026,,Chacra,Ata ema,3,1,
+7,4,Serrezulea,Loyola,4/13/2026,,Chacra,Geo dec,1,1,
+8,1,La Paz,Pichonas,4/14/2026,,Referencia,Cel pal,6,1,
+8,1,La Paz,Pichonas,4/14/2026,,Referencia,Alo sp.,4,1,
+8,2,La Paz,Pichonas,4/14/2026,,Referencia,Lar div,3,1,
+8,2,La Paz,Pichonas,4/14/2026,,Referencia,Con mic,1,1,
+8,3,La Paz,Pichonas,4/14/2026,,Referencia,Con mic,1,1,
+8,3,La Paz,Pichonas,4/14/2026,,Referencia,Lar div,1,1,
+8,3,La Paz,Pichonas,4/14/2026,,Referencia,Cel pal,1,1,
+8,4,La Paz,Pichonas,4/14/2026,,Referencia,Alo sp.,3,1,
+8,4,La Paz,Pichonas,4/14/2026,,Referencia,Cel pal,6,1,
+8,4,La Paz,Pichonas,4/14/2026,,Referencia,Lar div,1,1,
+9,1,La Paz,Pichonas,4/15/2026,,Chacra,Nel fle,2,1,
+9,2,La Paz,Pichonas,4/15/2026,,Chacra,Nel fle,5,1,
+9,3,La Paz,Pichonas,4/15/2026,,Chacra,Nel fle,2,1,
+9,4,La Paz,Pichonas,4/15/2026,,Chacra,Nel fle,3,1,
+9,4,La Paz,Pichonas,4/15/2026,,Chacra,Con mic,1,1,
+10,1,Dolores,El Alamo,4/15/2026,,Refgerencia,Cel pal,7,1,
+10,1,Dolores,El Alamo,4/15/2026,,Refgerencia,May vit,1,1,
+10,2,Dolores,El Alamo,4/15/2026,,Refgerencia,Cel pal,4,1,
+10,3,Dolores,El Alamo,4/15/2026,,Refgerencia,Cel pal,11,1,
+10,3,Dolores,El Alamo,4/15/2026,,Refgerencia,Ata ema,1,1,
+10,4,Dolores,El Alamo,4/15/2026,,Refgerencia,Xim ame,1,1,
+10,4,Dolores,El Alamo,4/15/2026,,Refgerencia,Cel pal,2,1,
+10,4,Dolores,El Alamo,4/15/2026,,Refgerencia,Ata ema,1,1,
+10,4,Dolores,El Alamo,4/15/2026,,Refgerencia,Asp que,1,1,
+10,4,Dolores,El Alamo,4/15/2026,,Refgerencia,Lar div,1,1,
+11,1,Dolores,El Alamo,4/15/2026,,Chacra,Nel fle,2,1,
+11,2,Dolores,El Alamo,4/15/2026,,Chacra,Asp que,1,1,
+11,2,Dolores,El Alamo,4/15/2026,,Chacra,Cel pal,3,1,
+11,2,Dolores,El Alamo,4/15/2026,,Chacra,Cer pra,1,1,
+11,2,Dolores,El Alamo,4/15/2026,,Chacra,Lyc sp.,4,1,
+11,3,Dolores,El Alamo,4/15/2026,,Chacra,Cel pal,1,1,
+11,3,Dolores,El Alamo,4/15/2026,,Chacra,Lar div,1,1,
+11,4,Dolores,El Alamo,4/15/2026,,Chacra,Cel pal,2,1,
+11,4,Dolores,El Alamo,4/15/2026,,Chacra,Nel fle,1,1,
+11,4,Dolores,El Alamo,4/15/2026,,Chacra,Lar div,1,1,
+12,1,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Rolado,Alo sp.,4,1,
+12,2,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Rolado,Alo sp.,2,1,
+12,2,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Rolado,Cel pal,3,1,
+12,2,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Rolado,Lyc sp.,2,1,
+12,2,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Rolado,Lar div,1,1,
+12,2,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Rolado,Nel fle,1,1,
+12,3,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Rolado,Cel pal,3,1,
+12,3,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Rolado,Alo sp.,5,1,
+12,4,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Rolado,Alo sp.,12,1,
+12,4,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Rolado,Cel pal,2,1,
+12,4,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Rolado,Vac aro,1,1,
+13,1,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Referencia,Alo sp.,8,1,
+13,1,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Referencia,Cel pal,6,1,
+13,1,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Referencia,Geo dec,3,1,
+13,1,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Referencia,Lar div,2,1,
+13,2,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Referencia,Lar div,3,1,
+13,2,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Referencia,Nel tor,1,1,
+13,2,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Referencia,Alo sp.,3,1,
+13,3,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Referencia,Cel pal,5,1,
+13,3,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Referencia,Alo sp.,5,1,
+13,3,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Referencia,Lar div,3,1,
+13,3,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Referencia,Con mic,1,1,
+13,4,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Referencia,Cel pal,8,1,
+13,4,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Referencia,Alo sp.,1,1,
+13,4,Quines,Escuela Agrotecnica JP Pringles,4/16/2026,,Referencia,Lyc sp.,1,1,
+14,1,Quines,Furlotti,4/16/2026,,Chacra,Cel pal,10,1,
+14,1,Quines,Furlotti,4/16/2026,,Chacra,Ata ema,1,1,
+14,2,Quines,Furlotti,4/16/2026,,Chacra,Cel pal,2,1,
+14,2,Quines,Furlotti,4/16/2026,,Chacra,Nel fle,1,1,
+14,3,Quines,Furlotti,4/16/2026,,Chacra,Con mic,8,1,
+14,3,Quines,Furlotti,4/16/2026,,Chacra,Nel fle,2,1,
+14,4,Quines,Furlotti,4/16/2026,,Chacra,Cel tal,1,1,
+15,1,Quines,Furlotti,4/16/2026,,Referencia,Ata ema,2,1,
+15,1,Quines,Furlotti,4/16/2026,,Referencia,Cel pal,5,1,
+15,2,Quines,Furlotti,4/16/2026,,Referencia,Cel pal,5,1,
+15,2,Quines,Furlotti,4/16/2026,,Referencia, Lyc sp. 2,1,1,
+15,3,Quines,Furlotti,4/16/2026,,Referencia,Cel pal,6,1,
+15,3,Quines,Furlotti,4/16/2026,,Referencia,Ata ema,1,1,
+15,4,Quines,Furlotti,4/16/2026,,Referencia,,SD,0,
+16,1,Chamical,La Isla,4/17/2026,,Rolado, -,,1,
+16,2,Chamical,La Isla,4/17/2026,,Rolado,Lar div,1,1,
+16,2,Chamical,La Isla,4/17/2026,,Rolado,Sen aph,1,1,
+16,2,Chamical,La Isla,4/17/2026,,Rolado,Asp que,,1,
+16,3,Chamical,La Isla,4/17/2026,,Rolado, -,,1,
+16,4,Chamical,La Isla,4/17/2026,,Rolado,Nel fle,1,1,
+16,4,Chamical,La Isla,4/17/2026,,Rolado,Mim car,1,1,
+16,4,Chamical,La Isla,4/17/2026,,Rolado,Tri usi,1,1,
+16,4,Chamical,La Isla,4/17/2026,,Rolado,Asp que,,1,
+17,1,Chamical,La Isla,4/17/2026,,Referencia,Sen aph,1,1,
+17,1,Chamical,La Isla,4/17/2026,,Referencia,Tri usi,1,1,
+17,1,Chamical,La Isla,4/17/2026,,Referencia,Lar div,1,1,
+17,1,Chamical,La Isla,4/17/2026,,Referencia,Mim car,2,1,
+17,2,Chamical,La Isla,4/17/2026,,Referencia,Sen aph,2,1,
+17,2,Chamical,La Isla,4/17/2026,,Referencia,Lar div,2,1,
+17,2,Chamical,La Isla,4/17/2026,,Referencia,Ata ema,1,1,
+17,2,Chamical,La Isla,4/17/2026,,Referencia,Mim car,2,1,
+17,3,Chamical,La Isla,4/17/2026,,Referencia,Lar div,2,1,
+17,3,Chamical,La Isla,4/17/2026,,Referencia,Geo dec,3,1,
+17,3,Chamical,La Isla,4/17/2026,,Referencia,Sen aph,1,1,
+17,3,Chamical,La Isla,4/17/2026,,Referencia,Con mic,1,1,
+17,3,Chamical,La Isla,4/17/2026,,Referencia,Ata ema,1,1,
+17,4,Chamical,La Isla,4/17/2026,,Referencia,Lar div,1,1,
+17,4,Chamical,La Isla,4/17/2026,,Referencia,Geo dec,1,1,
+18,1,Chamical,La Isla,4/17/2026,,Fuego,Asp que,1,1,
+18,1,Chamical,La Isla,4/17/2026,,Fuego,Sen aph,3,1,
+18,1,Chamical,La Isla,4/17/2026,,Fuego,Lar div,1,1,
+18,2,Chamical,La Isla,4/17/2026,,Fuego,Mim car,4,1,
+18,2,Chamical,La Isla,4/17/2026,,Fuego,Lar div,2,1,
+18,2,Chamical,La Isla,4/17/2026,,Fuego,Lyc sp.,1,1,
+18,3,Chamical,La Isla,4/17/2026,,Fuego,Mim car,2,1,
+18,3,Chamical,La Isla,4/17/2026,,Fuego,Sen aph,1,1,
+18,3,Chamical,La Isla,4/17/2026,,Fuego,Lar div,4,1,
+18,3,Chamical,La Isla,4/17/2026,,Fuego,Nel fle,1,1,
+18,4,Chamical,La Isla,4/17/2026,,Fuego,Mim car,7,1,
+18,4,Chamical,La Isla,4/17/2026,,Fuego,Lar div,6,1,
+18,4,Chamical,La Isla,4/17/2026,,Fuego,Sen aph,1,1,
+19,1,Chamical,Viscacheras,4/18/2026,,Referencia,Mim car,4,1,
+19,1,Chamical,Viscacheras,4/18/2026,,Referencia,Lar div,2,1,
+19,2,Chamical,Viscacheras,4/18/2026,,Referencia,Nel tor,1,1,
+19,2,Chamical,Viscacheras,4/18/2026,,Referencia,Lar div,2,1,
+19,2,Chamical,Viscacheras,4/18/2026,,Referencia,Ata ema,1,1,
+19,2,Chamical,Viscacheras,4/18/2026,,Referencia,Cas coc,1,1,
+19,2,Chamical,Viscacheras,4/18/2026,,Referencia,Mim car,2,1,
+19,3,Chamical,Viscacheras,4/18/2026,,Referencia,Mim car,1,1,
+19,3,Chamical,Viscacheras,4/18/2026,,Referencia,Lar div,2,1,
+19,3,Chamical,Viscacheras,4/18/2026,,Referencia,Asp que,,1,
+19,4,Chamical,Viscacheras,4/18/2026,,Referencia,Lar div,4,1,
+19,4,Chamical,Viscacheras,4/18/2026,,Referencia,Mim car,2,1,
+20,1,Chamical,Viscacheras,4/18/2026,,Rolado,Lar div,2,1,
+20,2,Chamical,Viscacheras,4/18/2026,,Rolado,Nel tor,1,1,
+20,2,Chamical,Viscacheras,4/18/2026,,Rolado,Lar div,1,1,
+20,3,Chamical,Viscacheras,4/18/2026,,Rolado,Cel chi,2,1,
+20,3,Chamical,Viscacheras,4/18/2026,,Rolado,Lar div,1,1,
+20,3,Chamical,Viscacheras,4/18/2026,,Rolado,Cer pra,1,1,
+20,4,Chamical,Viscacheras,4/18/2026,,Rolado,Cer pra,1,1,
+21,1,Chamical,Viscacheras,4/18/2026,,Fuego, -,,1,
+21,2,Chamical,Viscacheras,4/18/2026,,Fuego,Lar div,3,1,
+21,3,Chamical,Viscacheras,4/18/2026,,Fuego,Geo dec,7,1,
+21,3,Chamical,Viscacheras,4/18/2026,,Fuego,Alo sp.,2,1,
+21,3,Chamical,Viscacheras,4/18/2026,,Fuego,Lar div,5,1,
+21,4,Chamical,Viscacheras,4/18/2026,,Fuego,Lar div,1,1,
+22,1,San Luis,Sol Puntano,4/19/2026,,Chacra Regeneración Vieja,Cel pal,3,1,
+22,1,San Luis,Sol Puntano,4/19/2026,,Chacra Regeneración Vieja,Lar div,3,1,
+22,1,San Luis,Sol Puntano,4/19/2026,,Chacra Regeneración Vieja,Mon spi,1,1,
+22,1,San Luis,Sol Puntano,4/19/2026,,Chacra Regeneración Vieja,Sen aph,1,1,
+22,2,San Luis,Sol Puntano,4/19/2026,,Chacra Regeneración Vieja,Lar div,6,1,
+22,2,San Luis,Sol Puntano,4/19/2026,,Chacra Regeneración Vieja,Mim car,1,1,
+22,2,San Luis,Sol Puntano,4/19/2026,,Chacra Regeneración Vieja,Xim ame,1,1,
+22,2,San Luis,Sol Puntano,4/19/2026,,Chacra Regeneración Vieja,Con mic,3,1,
+22,3,San Luis,Sol Puntano,4/19/2026,,Chacra Regeneración Vieja,Sch fas,4,1,
+22,3,San Luis,Sol Puntano,4/19/2026,,Chacra Regeneración Vieja,Cel pal,1,1,
+22,3,San Luis,Sol Puntano,4/19/2026,,Chacra Regeneración Vieja,Bac sp.,1,1,Bulisima
+22,3,San Luis,Sol Puntano,4/19/2026,,Chacra Regeneración Vieja,Lic sp.,2,1,
+22,3,San Luis,Sol Puntano,4/19/2026,,Chacra Regeneración Vieja,Lar div,1,1,
+22,4,San Luis,Sol Puntano,4/19/2026,,Chacra Regeneración Vieja,Mim car,2,1,
+22,4,San Luis,Sol Puntano,4/19/2026,,Chacra Regeneración Vieja,Cel pal,1,1,
+22,4,San Luis,Sol Puntano,4/19/2026,,Chacra Regeneración Vieja,Ata ema,1,1,
+22,4,San Luis,Sol Puntano,4/19/2026,,Chacra Regeneración Vieja,Asteracea herborizada,1,1,
+23,1,San Luis,Sol Puntano,4/19/2026,,Referencia,Mim car,1,1,
+23,1,San Luis,Sol Puntano,4/19/2026,,Referencia,Lar div,3,1,
+23,1,San Luis,Sol Puntano,4/19/2026,,Referencia,Cel pal,1,1,
+23,2,San Luis,Sol Puntano,4/19/2026,,Referencia,Lar div,3,1,
+23,2,San Luis,Sol Puntano,4/19/2026,,Referencia,Con mic,1,1,
+23,2,San Luis,Sol Puntano,4/19/2026,,Referencia,Cel pal,1,1,
+23,3,San Luis,Sol Puntano,4/19/2026,,Referencia,Mim car,3,1,
+23,3,San Luis,Sol Puntano,4/19/2026,,Referencia,Lar div,3,1,
+23,3,San Luis,Sol Puntano,4/19/2026,,Referencia,Cel pal,1,1,
+23,3,San Luis,Sol Puntano,4/19/2026,,Referencia,Con mic,5,1,
+23,3,San Luis,Sol Puntano,4/19/2026,,Referencia,Lic sp.,1,1,
+23,3,San Luis,Sol Puntano,4/19/2026,,Referencia,Mon spi,1,1,
+23,4,San Luis,Sol Puntano,4/19/2026,,Referencia,Cel pal,9,1,
+23,4,San Luis,Sol Puntano,4/19/2026,,Referencia,Lar div,2,1,
+23,4,San Luis,Sol Puntano,4/19/2026,,Referencia,Ata ema,1,1,
+23,4,San Luis,Sol Puntano,4/19/2026,,Referencia,Con mic,1,1,
+24,1,San Luis,Sol Puntano,4/19/2026,,Rolado,Sen aph,2,1,
+24,1,San Luis,Sol Puntano,4/19/2026,,Rolado,Lar div,1,1,
+24,2,San Luis,Sol Puntano,4/19/2026,,Rolado,Lar div,3,1,
+24,2,San Luis,Sol Puntano,4/19/2026,,Rolado,Nel fle,1,1,
+24,2,San Luis,Sol Puntano,4/19/2026,,Rolado,Mim car,1,1,
+24,2,San Luis,Sol Puntano,4/19/2026,,Rolado,Cel pal,4,1,
+24,3,San Luis,Sol Puntano,4/19/2026,,Rolado,Lar div,1,1,
+24,3,San Luis,Sol Puntano,4/19/2026,,Rolado,Con mic,2,1,
+24,3,San Luis,Sol Puntano,4/19/2026,,Rolado,Nel tor,1,1,
+24,3,San Luis,Sol Puntano,4/19/2026,,Rolado,Nel fle,1,1,
+24,3,San Luis,Sol Puntano,4/19/2026,,Rolado,Ata ema,1,1,
+24,3,San Luis,Sol Puntano,4/19/2026,,Rolado,Lyc sp.,1,1,
+24,4,San Luis,Sol Puntano,4/19/2026,,Rolado,Con mic,1,1,
+24,4,San Luis,Sol Puntano,4/19/2026,,Rolado,Lyc sp.,9,1,
