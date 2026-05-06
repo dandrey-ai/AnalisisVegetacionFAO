@@ -76,7 +76,40 @@ plot_riqueza(
   "Graficos/Riqueza Renovales.png"
 )
 
+### Probamos grafico de diferencias
 
+df_diff <- riquezaA %>%
+  group_by(Estancia) %>%
+  mutate(ref = n_especies[Condición == "Referencia"]) %>%
+  ungroup() %>%
+  filter(Condición != "Referencia") %>%
+  mutate(diferencia = n_especies - ref)
+
+ggplot(df_diff, aes(x = Estancia, y = diferencia, fill = Condición)) +
+  geom_col(position = "dodge") +
+  geom_hline(yintercept = 0, color = "black") +
+  coord_flip() +
+  labs(
+    y = "Diferencia respecto a Referencia",
+    x = "Estancia",
+    fill = "Condición"
+  ) +
+  theme_minimal()
+
+ggplot(df_diff, aes(x = Estancia, y = diferencia, fill = Condición)) +
+  geom_col(position = position_dodge2(width = 0.8, preserve = "single")) +
+  geom_hline(yintercept = 0, color = "black") +
+  coord_flip() +
+  labs(
+    y = "Diferencia respecto a Referencia",
+    x = "Estancia",
+    fill = "Condición"
+  ) + scale_fill_manual(values = c(
+    "Chacra" = "#1b9e77",
+    "Fuego" = "#d95f02",
+    "Rolado" = "#7570b3"
+  ))+
+  theme_minimal()
 ###
 
 ind_total_A <- dataA %>%
@@ -87,9 +120,10 @@ ind_total_B <- dataB %>%
   group_by(ID.Parcela, Condición, Estancia) %>%
   summarise(n_individuos = n_distinct(ID.individuo), .groups = "drop")
 
+data_Ren$Cantidad.juveniles <- as.numeric(data_Ren$Cantidad.juveniles)
 ind_total_Ren <- data_Ren %>%
   group_by(Estancia, Condición) %>%
-  summarise(n_individuos = sum(Cantidad, na.rm = TRUE),
+  summarise(n_individuos = sum(Cantidad.juveniles, na.rm = TRUE),
             .groups = "drop")
 
 ### Graficos
